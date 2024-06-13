@@ -6,6 +6,22 @@ Welcome to the goldenCube GitHub repository! This site is currently under massiv
 ## Products
 goldenCube is a Greek coding company specializing in the development of websites, applications, and video games. While currently a small company, we have ambitious dreams of becoming a larger and more impactful player in the industry.
 
+Our current products include:
+- Fake Virous Prank
+- ZeroHeroLand Launcher
+- TheGameWithYou
+
+## Current Ongoing Projects
+Stay tuned for updates on our ongoing projects. We're currently working on exciting new developments!
+
+## 3feds Registrar
+Check out our latest project:
+- GitHub Repository: [3feds Registrar](https://github.com/3fedsRegistrar)
+- Website: [registrar.3feds.lol](https://registrar.3feds.lol)
+  
+Description:
+3 feds registrar is a simple and free registrar for webx ([GitHub - face-hh/webx](https://github.com/face-hh/webx)) and webx+ ([GitHub - webx-plus](https://github.com/webx-plus)).
+
 ## Contact
 For inquiries, you can reach out to us through the following channels:
 - YouTube: [GoldenCube](https://www.youtube.com/)
